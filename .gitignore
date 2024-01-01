@@ -1,0 +1,18 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/secrets
+
+/data
+
+/files
+
+/logs
+
+/plugins
+
+/dags/task2.py
+/dags/task3.py
+/dags/Data_to_cloud_sql.py
+/dags/create_table.py
+
